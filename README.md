@@ -32,4 +32,4 @@ __Melhoria__ , _melhoria 2_
 
 #### Imagem Local
 
-![Logo do Kotlin](img/kotlin.jpg)
+![Logo do kotlin](img/kotlin.jpg)
