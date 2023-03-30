@@ -33,3 +33,7 @@ __Melhoria__ , _melhoria 2_
 #### Imagem Local
 
 ![Logo do kotlin](img/kotlin.jpg)
+
+#### Imagem Externa
+
+![Logo do Kotlin](https://logowik.com/kotlin-vector-logo-4316.html)
