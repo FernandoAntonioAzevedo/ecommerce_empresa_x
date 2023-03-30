@@ -1,4 +1,7 @@
-# ecommerce_empresa_x
-Este é um e-commerce para a empresa X, feito em HTML5 e CSS3..
+# E-commerce empresa X
 
-# Teste
+Vamos criar um e-commerce, para a empresa C e demais funcionalidades
+
+## Funcionalidades:
+
+checkout, tela de produto, catálogo, home com banner
